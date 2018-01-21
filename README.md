@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# Blog App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Created while learning [Redux](https://www.udemy.com/react-redux/).
 
 ### Getting Started
 
@@ -23,3 +23,4 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+
